@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://bitbucket.org/dashboard/overview)
-- [Source](https://Prajakt-Khawase.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://prajakt-khawase.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Source](https://github.com/Prajakt-Khawase/working-with-markdown "Working With Markdown source")
 
 ## Getting Started
 
@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://www.pexels.com/photo/red-sedan-790176.jpg)
+![Hosted image](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Chirk_Castle_gates.jpg)
 
 ## Paragraphs
 
@@ -89,6 +89,35 @@ Denise Case
 dcase@nwmissouri.edu
 
 
-## My First Change
+## My First Change (section heading)
 
  I learned to edit the html file today
+ 
+ ## Adding Links
+ 
+ - [mybitbucket](https://bitbucket.org/dashboard/overview "redirecting to mybitbucket")
+ 
+ ## Ordered and Unordered Lists
+
+ ### Ordered List
+ 
+   1. Apple
+   1. Mango
+   1. Banana
+   
+ ### Unordered List
+ 
+    - Apple
+    - Mango
+    - Banana
+    
+ ## I Am Displaying An Image
+ 
+ ![Hosted image](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Chirk_Castle_gates.jpg)
+ 
+ ##  About
+ 
+ Prajakt Khawse
+ 
+ S534570@nwmissouri.edu
+    
