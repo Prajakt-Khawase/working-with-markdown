@@ -113,7 +113,7 @@ dcase@nwmissouri.edu
     
  ## I Am Displaying An Image
  
- ![Hosted image](https://commons.wikimedia.org/wiki/Main_Page#/media/File:Chirk_Castle_gates.jpg)
+ ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/a/a8/Chirk_Castle_gates.jpg)
  
  ##  About
  
